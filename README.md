@@ -12,6 +12,7 @@ We turned complex urban data into gamified, interpretable prototypes — not jus
 
 ![Hackathon Poster 2](assets/ZONO_NAUTS-AEC%20hackathon%20(2).png)
 ![Hackathon Poster 3](assets/Barcelona.png)
+<img width="2516" height="1461" alt="Barcelona" src="https://github.com/user-attachments/assets/2cdc15cf-116e-448e-aa6c-9831fba26d65" />
 
 
 
